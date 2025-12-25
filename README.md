@@ -19,7 +19,7 @@ Silakan gunakan tautan di bawah ini untuk menjelajahi dokumentasi dan menjalanka
 Berikut adalah visualisasi bagaimana sistem kami mendeteksi objek secara real-time:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZueXp4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6uM6shTpsub9S/giphy.gif" width="600px" alt="Object Detection Demo">
+  <img src="https://youtube.com/shorts/RLkW-2JmzaU?si=uZAzKju0fnLTxJ6R" width="600px" alt="Object Detection Demo">
 </p>
 
 ---
