@@ -31,19 +31,19 @@ Proyek ini dikembangkan oleh tim yang luar biasa. Kenali kami lebih dekat:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/150" width="150px;" alt="Pengembang 1"/><br />
-      <sub><b>Nama Pengembang 1</b></sub><br />
-      <small>Lead Developer</small>
+      <img src="https://github.com/ricky1211/Metodologi_Penelitian-Kelompok-5-/blob/main/Foto-Pengembang/1233PP.jpg" width="150px;" alt="Pengembang 1"/><br />
+      <sub><b>Ricky Alfian Saputra(312210279)</b></sub><br />
+      <small>Pembuat dan Pengembang Proyek</small>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/150" width="150px;" alt="Pengembang 2"/><br />
-      <sub><b>Nama Pengembang 2</b></sub><br />
-      <small>AI Engineer</small>
+      <img src="(https://github.com/ricky1211/Metodologi_Penelitian-Kelompok-5-/blob/main/Foto-Pengembang/IMG-20241002-WA0033.jpg)" width="150px;" alt="Pengembang 2"/><br />
+      <sub><b>Rizjky Dito Ridwansyah(312210405)</b></sub><br />
+      <small>Pengembang dan laporan</small>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/150" width="150px;" alt="Pengembang 3"/><br />
-      <sub><b>Nama Pengembang 3</b></sub><br />
-      <small>Data Scientist</small>
+      <img src="(https://github.com/ricky1211/Metodologi_Penelitian-Kelompok-5-/blob/main/Foto-Pengembang/tes12.jpg)" width="150px;" alt="Pengembang 3"/><br />
+      <sub><b>Dimas Adi Nugraha(312210409)</b></sub><br />
+      <small>Quality Check dan laporan</small>
     </td>
   </tr>
 </table>
