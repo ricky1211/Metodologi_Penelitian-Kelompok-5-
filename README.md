@@ -19,9 +19,8 @@ Silakan gunakan tautan di bawah ini untuk menjelajahi dokumentasi dan menjalanka
 Berikut adalah visualisasi bagaimana sistem kami mendeteksi objek secara real-time:
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=RLkW-2JmzaU">
-    <img src="https://img.youtube.com/vi/RLkW-2JmzaU/maxresdefault.jpg" width="600px" alt="Object Detection Demo">
-  </a>
+  <video src="nama-file-video-anda.mp4" width="600px" autoplay muted loop>
+  </video>
 </p>
 ---
 
