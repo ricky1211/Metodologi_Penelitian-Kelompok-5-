@@ -19,7 +19,7 @@ Silakan gunakan tautan di bawah ini untuk menjelajahi dokumentasi dan menjalanka
 Berikut adalah visualisasi bagaimana sistem kami mendeteksi objek secara real-time:
 
 <p align="center">
-  <video src="nama-file-video-anda.mp4" width="600px" autoplay muted loop>
+  <video src="https://github.com/ricky1211/Metodologi_Penelitian-Kelompok-5-/blob/main/video/After%20YOLO%20object%20detection%20(Output%20Video).mp4" width="600px" autoplay muted loop>
   </video>
 </p>
 ---
