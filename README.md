@@ -1,6 +1,6 @@
 # 🌟 Selamat Datang di Proyek Kami! 🌟
 
-Terima kasih telah berkunjung! Kami sangat senang Anda ada di sini. Proyek ini dibangun dengan dedikasi untuk memberikan solusi terbaik bagi pengguna melalui teknologi **Object Detection**.
+Terima kasih telah berkunjung! Kami sangat senang Anda ada di sini. Proyek ini dibangun dengan dedikasi untuk memberikan solusi terbaik melalui teknologi **Object Detection**.
 
 ---
 
@@ -17,10 +17,10 @@ Silakan gunakan tautan di bawah ini untuk menjelajahi dokumentasi dan menjalanka
 
 ## 🤖 Demo Object Detection
 
-Berikut adalah gambaran bagaimana sistem kami bekerja dalam mendeteksi objek secara real-time:
+Berikut adalah visualisasi bagaimana sistem kami mendeteksi objek secara real-time:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZueXp4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/f6mKEnJST7O1M50rYp/giphy.gif" width="600px" alt="Object Detection Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZueXp4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6uM6shTpsub9S/giphy.gif" width="600px" alt="Object Detection Demo">
 </p>
 
 ---
