@@ -10,9 +10,8 @@ Silakan gunakan tautan di bawah ini untuk menjelajahi dokumentasi dan menjalanka
 
 | Layanan | Tautan |
 | :--- | :--- |
-| **📄 Dokumentasi (GDoc)** | [Klik di Sini untuk Google Doc]([https://google.com/your-link-here](https://docs.google.com/document/d/1FbzS1VzpWqs8SkoGGjlVzUZVkSdJZpFo5YqZMsbO89g/edit?usp=sharing)) |
-| **💻 Program Utama** | [Buka Aplikasi/Program]([https://your-app-link.com](https://project-detection-object.vercel.app/)) |
-
+| **📄 Dokumentasi (GDoc)** | [Klik di Sini untuk Google Doc](https://docs.google.com/document/d/1FbzS1VzpWqs8SkoGGjlVzUZVkSdJZpFo5YqZMsbO89g/edit?usp=sharing) |
+| **💻 Program Utama** | [Buka Aplikasi/Program](https://project-detection-object.vercel.app/) |
 ---
 
 ## 🤖 Demo Object Detection
