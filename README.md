@@ -19,9 +19,10 @@ Silakan gunakan tautan di bawah ini untuk menjelajahi dokumentasi dan menjalanka
 Berikut adalah visualisasi bagaimana sistem kami mendeteksi objek secara real-time:
 
 <p align="center">
-  <img src="https://youtube.com/shorts/RLkW-2JmzaU?si=uZAzKju0fnLTxJ6R" width="600px" alt="Object Detection Demo">
+  <a href="https://www.youtube.com/watch?v=RLkW-2JmzaU">
+    <img src="https://img.youtube.com/vi/RLkW-2JmzaU/maxresdefault.jpg" width="600px" alt="Object Detection Demo">
+  </a>
 </p>
-
 ---
 
 ## 🛠️ Pengembang (Maintainers)
